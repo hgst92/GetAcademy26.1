@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: aquamarine;
+    font-size: large;
+
+}
+
+.click-btn {
+    color:brown;
+    background-color: white;
+}
+
+.radiogruppe {
+    display:flex;
+    flex-direction: column;
+    gap: 8px;
+}
